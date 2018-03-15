@@ -1,0 +1,2 @@
+# Emails
+Single event emails
